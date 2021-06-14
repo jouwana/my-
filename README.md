@@ -21,7 +21,7 @@
     - RFID_Lock
     - fingerprent_oled
     
-* a parking lot system, sensors on every lot to turn on light green/red based on if there is a car standing on it, a screen showing how many spots are left. sensor on exiting parking lot that signals a new spot opening up. as well as automatic boarder that opens up when there is space in the parking lot and it sees a car wanting to go in.
+* a parking lot system, sensors on every lot to turn on light green/red based on if there is a car standing on it, a screen showing how many spots are left. sensor on exiting parking lot that signals a new spot opening up. as well as automatic gate that opens up when there is space in the parking lot and it sees a car wanting to go in.
     - parking_lot
 
 
